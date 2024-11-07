@@ -1,4 +1,4 @@
-# Kiosk
+# ATG Kiosk
 
 Kiosk voor Alles to go
 
